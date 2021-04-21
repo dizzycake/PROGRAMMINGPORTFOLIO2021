@@ -16,6 +16,7 @@ Final OOP for interactive calculator! Source File [here](https://github.com/dizz
 
 #### Etcha Sketch
 Final OOP for interactive calculator! Source File [here](https://github.com/dizzycake/PROGRAMMINGPORTFOLIO2021/blob/gh-pages/src/Sketch). 
+
 ![Etcha Sketch](https://github.com/dizzycake/PROGRAMMINGPORTFOLIO2021/blob/gh-pages/images/sketch%20screenshot.jpg?raw=true)!
 
 All projects coded the 2021 school year. [Joanna Bromka](mailto:jmbromka@gmail.com)
