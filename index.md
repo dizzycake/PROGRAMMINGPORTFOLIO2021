@@ -31,5 +31,10 @@ Final OOP for converter! [Check out the source file here!](https://github.com/di
 
 ![Car Simulator](https://github.com/dizzycake/PROGRAMMINGPORTFOLIO2021/blob/gh-pages/images/converter%20screenshot.jpg)!
 
+#### textGame
+Final Python Project for 2021 done in Processing! [Check out the source file here!](https://github.com/dizzycake/Text_Based_Game).
+
+![Text Based Python Game](https://github.com/dizzycake/PROGRAMMINGPORTFOLIO2021/blob/gh-pages/images/Screen%20Shot%202021-06-01%20at%207.30.59%20AM.png)!
+
 
 All projects coded the 2021 school year. [Joanna Bromka](mailto:jmbromka@gmail.com)
